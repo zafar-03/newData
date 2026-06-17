@@ -7,5 +7,7 @@
 ## 
 
 - HTML
+    -   HTML 1.1
+    -   HTML 2.2
 - CSS 
 - JS
