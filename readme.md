@@ -6,7 +6,7 @@
 
 ## 
 
-- <b>HTML<b> stands
+- <b>HTML</b> stands
     -   HTML 1.1
     -   HTML 2.2
 - CSS 
